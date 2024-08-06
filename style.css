@@ -219,6 +219,18 @@ footer {
     .content .gallery img {
         width: 100%;
     }
+
+    .titulo-principal {
+        font-size: 1em;
+    }
+
+    .button {
+        padding: 8px 12px;
+    }
+
+    .whatsapp-btn img {
+        width: 30px;
+    }
 }
 
 
